@@ -21,6 +21,9 @@ Objetivos Específicos:
 
 7.2 MARCO TEORICO:
 
+![WhatsApp Image 2021-08-25 at 23 19 26](https://user-images.githubusercontent.com/85263529/131383412-9875a380-7d21-4d05-9014-72e39f9b417d.jpeg)
+
+
 7.3 INFORMACIÓN GENERAL:
 
 7.4. MATERIAL Y EQUIPO REQUERIDO:

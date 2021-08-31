@@ -48,6 +48,11 @@ Objetivos Específicos:
 ![image](https://user-images.githubusercontent.com/85263529/131427210-0dabce1a-61e6-4c5a-8150-c7576e46ab1e.png)
 
 
+CIRCUITO ARMADO:
+
+![image](https://user-images.githubusercontent.com/85263529/131446446-690354e9-8e21-4d0f-a7fa-2dd889164251.png)
+
+
 
 7.6.RESPUESTA A INTERROGANTES:
 

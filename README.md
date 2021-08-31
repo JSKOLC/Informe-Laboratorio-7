@@ -35,6 +35,12 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/85263529/131426886-f1b5b5b1-e7a7-4a7a-954c-8b1d8eb10254.png)
 
+![image](https://user-images.githubusercontent.com/85263529/131426905-d304d82d-1ebe-4906-be89-3634439347ef.png)
+
+![image](https://user-images.githubusercontent.com/85263529/131427051-8b8681ea-8496-4c44-8193-cdde1628da3f.png)
+
+
+
 CIRCUITO ARMADO:
 
 ![image](https://user-images.githubusercontent.com/85263529/131446446-690354e9-8e21-4d0f-a7fa-2dd889164251.png)
@@ -65,13 +71,7 @@ CIRCUITO ARMADO:
 ![WhatsApp Image 2021-08-31 at 07 40 59](https://user-images.githubusercontent.com/85263529/131507132-1a79c5c9-9259-4037-adda-9175c2e9ff67.jpeg)
 
 
-
-![image](https://user-images.githubusercontent.com/85263529/131426905-d304d82d-1ebe-4906-be89-3634439347ef.png)
-
-
-![image](https://user-images.githubusercontent.com/85263529/131427051-8b8681ea-8496-4c44-8193-cdde1628da3f.png)
-
-
+TABLA DE RESULTADOS:
 
 ![image](https://user-images.githubusercontent.com/85263529/131506739-df5c8ca0-416b-4919-9991-15539c732f1f.png)
 

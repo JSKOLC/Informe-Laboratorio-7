@@ -136,18 +136,6 @@ Análisis de resultados:
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
 
- Preguntas: 
- 
-   1.- ¿Cómo se compartan la bobina y el capacitor en corriente continua (cero Hz)?.
-           
-           
-   2.-¿Cómo se comportan la bobina y el capacitor en corriente alterna?.
-           
-   3.- ¿Qué cree usted que ocurriría con el voltaje V y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos.
-           
-           
-   4.- ¿Qué son los valores eficaces de voltaje y corriente?:
-
 
 
 
@@ -184,6 +172,18 @@ Análisis de resultados:
 
 
 7.6.RESPUESTA A INTERROGANTES:
+
+ 
+   1.- ¿Cómo se compartan la bobina y el capacitor en corriente continua (cero Hz)?.
+           
+           
+   2.-¿Cómo se comportan la bobina y el capacitor en corriente alterna?.
+           
+   3.- ¿Qué cree usted que ocurriría con el voltaje V y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos.
+           
+           
+   4.- ¿Qué son los valores eficaces de voltaje y corriente?:
+
 
 7.7.VIDEO:
 

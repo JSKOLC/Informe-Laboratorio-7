@@ -28,7 +28,7 @@ Objetivos Específicos:
 
 7.4. MATERIAL Y EQUIPO REQUERIDO:
 
-![image](https://user-images.githubusercontent.com/85263529/131426863-1b42ee09-5e02-4c56-9340-5d4b87a65330.png)
+
 
 
 7.5. PROCEDIMIENTO:
@@ -121,6 +121,18 @@ TABLA DE RESULTADOS:
 
 ![WhatsApp Image 2021-08-31 at 08 27 46](https://user-images.githubusercontent.com/85263529/131512085-3af5be11-d744-4654-9057-b2e7186e3499.jpeg)
 
+100 Hz
+
+![WhatsApp Image 2021-08-31 at 08 35 56](https://user-images.githubusercontent.com/85263529/131513937-490c2462-8019-4b4f-aef1-dbb698a9a032.jpeg)
+ 
+ 500 Hz
+ 
+ ![WhatsApp Image 2021-08-31 at 08 37 52](https://user-images.githubusercontent.com/85263529/131514142-d05d204b-1ec1-42cf-b312-5364f78eb445.jpeg)
+
+ 
+ 1000 Hz
+
+![WhatsApp Image 2021-08-31 at 08 46 47](https://user-images.githubusercontent.com/85263529/131514243-c64e11ea-5493-4e7d-8db9-bef7f6723d59.jpeg)
 
 
 

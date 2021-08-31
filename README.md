@@ -82,9 +82,10 @@ TABLA DE RESULTADOS:
 ![image](https://user-images.githubusercontent.com/85263529/131427197-14c55ef4-df35-401a-b12f-d5ed3f1de408.png)
 
 
-
-
 ![image](https://user-images.githubusercontent.com/85263529/131427210-0dabce1a-61e6-4c5a-8150-c7576e46ab1e.png)
+
+![image](https://user-images.githubusercontent.com/85263529/131508210-0ce65aee-40bf-4179-a40d-776a07bccb00.png)
+
 
 
 

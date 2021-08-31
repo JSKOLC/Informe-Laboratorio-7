@@ -114,7 +114,8 @@ CIRCUITO ARMADO:
 
 TABLA DE RESULTADOS:
 
-![image](https://user-images.githubusercontent.com/85263529/131506739-df5c8ca0-416b-4919-9991-15539c732f1f.png)
+![image](https://user-images.githubusercontent.com/85263529/131517496-8abeb260-59f4-4e9d-a8a7-9f708a56c7f2.png)
+
 
 2.- Construya el circuito mostrado en la Figura 2.
 

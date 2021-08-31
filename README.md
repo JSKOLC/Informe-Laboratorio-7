@@ -180,14 +180,25 @@ TABLA DE RESULTADOS:
 
  
    1.- ¿Cómo se compartan la bobina y el capacitor en corriente continua (cero Hz)?.
+   
+   El capacitor no permite el paso de corriente, por lo cual la bobina y el capacitor generan  un cortocircuito. 
            
            
    2.-¿Cómo se comportan la bobina y el capacitor en corriente alterna?.
+   
+   Mientras tanto en la bobina  la corriente disminuirá y el voltaje aumentará para oponerse a la disminución y la corriente varía por lo que hay autoinducción. 
            
    3.- ¿Qué cree usted que ocurriría con el voltaje V y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos.
+   
+   Los valores de la corriente y voltaje van a variar en cada bobina o capacitor según su forma de conexión.
+   
            
            
-   4.- ¿Qué son los valores eficaces de voltaje y corriente?:
+   4.- ¿Qué son los valores eficaces de voltaje y corriente?
+   
+   Deduciendo nosotros, llegamos a que el valor que tiene una corriente continua para que produzca la misma potencia. 
+   
+   
 
 
 7.7.VIDEO:

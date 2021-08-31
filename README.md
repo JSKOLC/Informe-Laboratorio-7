@@ -65,6 +65,9 @@ Objetivos Específicos:
 
 PROCEDIMIENTO:
 
+![image](https://user-images.githubusercontent.com/85263529/131515975-3efa9439-3673-48df-a419-d2de7dd628d1.png)
+
+
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
 
@@ -115,10 +118,16 @@ TABLA DE RESULTADOS:
 
 2.- Construya el circuito mostrado en la Figura 2.
 
+
 ![image](https://user-images.githubusercontent.com/85263529/131514917-9a3445c6-14ee-4aa1-ae40-e47d050174ae.png)
 
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
+
+CIRCUITO ARMADO:
+
+![image](https://user-images.githubusercontent.com/85263529/131516201-9c4c027c-e636-4dde-a0c1-433cb7b7cb84.png)
+
 
 Análisis de resultados:
 

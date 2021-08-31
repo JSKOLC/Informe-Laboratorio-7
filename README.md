@@ -26,12 +26,13 @@ Objetivos Generales:
 -	Verificar las combinaciones serie y  paralelo de bobinas y capacitores.
 
 
--	Familiarizarse con el uso de instrumentos de medida.
-
-
-	
 
 Objetivos Específicos:
+
+
+- Familiarizarse con el uso de instrumentos de medida en este caso el simulador DCACLAB.
+
+
 
 
 7.2 MARCO TEORICO:
@@ -206,6 +207,23 @@ TABLA DE RESULTADOS:
 
 
 7.8.CONCLUSIONES:
+
+Hemos podido concluir que a medida que la señal de frecuencia va en aumento o en deceso, los valores de la constante de tiempo
+y del voltaje máximo variación y todo esto depende de la configuración del circuito, ya que la impedancia del capacitor o inductor
+está en función de la frecuencia
+
+Se determina que El valor de la caída de tensión medida con el multímetro correspondiente al valor eficaz de la caída de tensión
+media con el osciloscopio.
+
+Aprendimos que mientras mayor sea la frecuencia la impedancia capacitiva será menor, y mientras mayor sea la frecuencia la 
+impedancia inductiva será mayor.
+
+
+7.9.BIBLIOGRAFIA: 
+
+
+Robbins, A. (2008). Analisis de circuitos. Teoria y practica. santa fe: cengage learning. Zapata, F. (. ((2 de June de 2021)).
+fisica. Leyes de Kirchhof, 5.
 
 
 

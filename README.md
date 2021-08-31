@@ -141,7 +141,7 @@ Análisis de resultados:
 
 0 Hz
 
-![image](https://user-images.githubusercontent.com/85263529/131518401-dc863d17-d13c-4032-b9eb-9a90e20d9cb7.png)
+![WhatsApp Image 2021-08-31 at 09 12 00 (1)](https://user-images.githubusercontent.com/85263529/131520871-ba4c5ff1-629b-42a3-b4e9-f4ac3d4fa1ad.jpeg)
 
 
 
@@ -165,6 +165,11 @@ Análisis de resultados:
  1000 Hz
 
 ![WhatsApp Image 2021-08-31 at 08 46 47](https://user-images.githubusercontent.com/85263529/131514243-c64e11ea-5493-4e7d-8db9-bef7f6723d59.jpeg)
+
+TABLA DE RESULTADOS:
+
+![image](https://user-images.githubusercontent.com/85263529/131520621-09d75405-ee51-4dee-8455-20d28a692ea7.png)
+
 
 
 

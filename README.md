@@ -86,6 +86,16 @@ TABLA DE RESULTADOS:
 
 ![image](https://user-images.githubusercontent.com/85263529/131508210-0ce65aee-40bf-4179-a40d-776a07bccb00.png)
 
+10 Hz
+
+![WhatsApp Image 2021-08-31 at 08 24 42 (1)](https://user-images.githubusercontent.com/85263529/131511984-953a898c-5f3f-409f-be3b-a9db03d9af7f.jpeg)
+
+50 Hz
+
+![WhatsApp Image 2021-08-31 at 08 27 46](https://user-images.githubusercontent.com/85263529/131512085-3af5be11-d744-4654-9057-b2e7186e3499.jpeg)
+
+
+
 
 
 

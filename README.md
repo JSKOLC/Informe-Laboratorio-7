@@ -26,12 +26,8 @@ Objetivos Específicos:
 
 7.3 INFORMACIÓN GENERAL:
 
+
 7.4. MATERIAL Y EQUIPO REQUERIDO:
-
-
-
-
-7.5. PROCEDIMIENTO:
 
 -	Generador de señales
 

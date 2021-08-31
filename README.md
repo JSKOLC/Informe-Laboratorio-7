@@ -11,11 +11,26 @@ INTEGRANTES:
 
 PRÁCTICA No. 7
 
-TEMA: 
+TEMA: INDUCTOR Y CAPACITOR. 
 
 7.1. OBJETIVO DE LA PRÁCTICA
 
 Objetivos Generales:
+
+-	Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+
+
+-	Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+
+
+-	Verificar las combinaciones serie y  paralelo de bobinas y capacitores.
+
+
+-	Familiarizarse con el uso de instrumentos de medida.
+
+
+	
+
 Objetivos Específicos:
 
 
@@ -98,16 +113,37 @@ TABLA DE RESULTADOS:
 
 ![image](https://user-images.githubusercontent.com/85263529/131506739-df5c8ca0-416b-4919-9991-15539c732f1f.png)
 
+2.- Construya el circuito mostrado en la Figura 2.
+
+![image](https://user-images.githubusercontent.com/85263529/131514917-9a3445c6-14ee-4aa1-ae40-e47d050174ae.png)
+
+
+Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
+
+Análisis de resultados:
+
+
+1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+
+ Preguntas: 
+ 
+   1.- ¿Cómo se compartan la bobina y el capacitor en corriente continua (cero Hz)?.
+           
+           
+   2.-¿Cómo se comportan la bobina y el capacitor en corriente alterna?.
+           
+   3.- ¿Qué cree usted que ocurriría con el voltaje V y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos.
+           
+           
+   4.- ¿Qué son los valores eficaces de voltaje y corriente?:
 
 
 
 
-![image](https://user-images.githubusercontent.com/85263529/131427197-14c55ef4-df35-401a-b12f-d5ed3f1de408.png)
 
 
-![image](https://user-images.githubusercontent.com/85263529/131427210-0dabce1a-61e6-4c5a-8150-c7576e46ab1e.png)
 
-![image](https://user-images.githubusercontent.com/85263529/131508210-0ce65aee-40bf-4179-a40d-776a07bccb00.png)
 
 10 Hz
 

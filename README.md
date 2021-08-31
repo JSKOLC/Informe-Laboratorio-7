@@ -35,6 +35,12 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/85263529/131426886-f1b5b5b1-e7a7-4a7a-954c-8b1d8eb10254.png)
 
+CIRCUITO ARMADO:
+
+![image](https://user-images.githubusercontent.com/85263529/131446446-690354e9-8e21-4d0f-a7fa-2dd889164251.png)
+
+
+
 10 Hz
 
 ![WhatsApp Image 2021-08-31 at 07 10 17](https://user-images.githubusercontent.com/85263529/131502905-33f6d561-b112-476b-a3c8-be0019a44b8b.jpeg)
@@ -61,10 +67,6 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/85263529/131427210-0dabce1a-61e6-4c5a-8150-c7576e46ab1e.png)
 
-
-CIRCUITO ARMADO:
-
-![image](https://user-images.githubusercontent.com/85263529/131446446-690354e9-8e21-4d0f-a7fa-2dd889164251.png)
 
 
 

@@ -39,6 +39,9 @@ CIRCUITO ARMADO:
 
 ![image](https://user-images.githubusercontent.com/85263529/131446446-690354e9-8e21-4d0f-a7fa-2dd889164251.png)
 
+0 Hz
+
+![WhatsApp Image 2021-08-31 at 07 50 27](https://user-images.githubusercontent.com/85263529/131507273-155b1ab5-97d4-4aaf-bce4-01fbe25d15c0.jpeg)
 
 
 10 Hz
@@ -53,6 +56,13 @@ CIRCUITO ARMADO:
 
 ![WhatsApp Image 2021-08-31 at 07 21 04](https://user-images.githubusercontent.com/85263529/131503333-61f2521b-ff58-46c8-a548-8b61b0693765.jpeg)
 
+500 Hz
+
+![WhatsApp Image 2021-08-31 at 07 25 29](https://user-images.githubusercontent.com/85263529/131507008-1f114621-9186-4a86-8015-82bb60e637a0.jpeg)
+
+1000 Hz
+
+![WhatsApp Image 2021-08-31 at 07 40 59](https://user-images.githubusercontent.com/85263529/131507132-1a79c5c9-9259-4037-adda-9175c2e9ff67.jpeg)
 
 
 
@@ -62,7 +72,16 @@ CIRCUITO ARMADO:
 ![image](https://user-images.githubusercontent.com/85263529/131427051-8b8681ea-8496-4c44-8193-cdde1628da3f.png)
 
 
+
+![image](https://user-images.githubusercontent.com/85263529/131506739-df5c8ca0-416b-4919-9991-15539c732f1f.png)
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/85263529/131427197-14c55ef4-df35-401a-b12f-d5ed3f1de408.png)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/85263529/131427210-0dabce1a-61e6-4c5a-8150-c7576e46ab1e.png)

@@ -151,7 +151,9 @@ Análisis de resultados:
 
 
 
+0 Hz
 
+![image](https://user-images.githubusercontent.com/85263529/131518401-dc863d17-d13c-4032-b9eb-9a90e20d9cb7.png)
 
 
 

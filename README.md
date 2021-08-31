@@ -33,11 +33,38 @@ Objetivos Específicos:
 
 7.5. PROCEDIMIENTO:
 
-![image](https://user-images.githubusercontent.com/85263529/131426886-f1b5b5b1-e7a7-4a7a-954c-8b1d8eb10254.png)
+-	Generador de señales
 
-![image](https://user-images.githubusercontent.com/85263529/131426905-d304d82d-1ebe-4906-be89-3634439347ef.png)
+-	Fuente DC.
 
-![image](https://user-images.githubusercontent.com/85263529/131427051-8b8681ea-8496-4c44-8193-cdde1628da3f.png)
+
+-	Osciloscopio.
+
+
+-	Protoboard.
+
+
+-	Multímetro.
+
+
+-	Cables conductores.
+
+
+-	Resistencias, bobinas y capacitores.
+
+PROCEDIMIENTO:
+
+1.- Construya en el protoboard el circuito mostrado en la Figura 1.
+
+
+   a.	Utilice el osciloscopio para observar el voltaje V, variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
+   
+   
+   b.	Utilice el multímetro para medir el voltaje V, variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+   
+   
+   c.	Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
 
 
 

@@ -35,6 +35,20 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/85263529/131426886-f1b5b5b1-e7a7-4a7a-954c-8b1d8eb10254.png)
 
+10 Hz
+
+![WhatsApp Image 2021-08-31 at 07 10 17](https://user-images.githubusercontent.com/85263529/131502905-33f6d561-b112-476b-a3c8-be0019a44b8b.jpeg)
+
+50 Hz
+
+![WhatsApp Image 2021-08-31 at 07 17 02](https://user-images.githubusercontent.com/85263529/131503218-af3e6cba-7fbb-4379-996c-198c1b4cef35.jpeg)
+
+100 Hz
+
+![WhatsApp Image 2021-08-31 at 07 21 04](https://user-images.githubusercontent.com/85263529/131503333-61f2521b-ff58-46c8-a548-8b61b0693765.jpeg)
+
+
+
 
 ![image](https://user-images.githubusercontent.com/85263529/131426905-d304d82d-1ebe-4906-be89-3634439347ef.png)
 

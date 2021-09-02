@@ -203,6 +203,7 @@ TABLA DE RESULTADOS:
 
 
 7.7.VIDEO:
+https://youtu.be/kkig0acj4PA
 
 
 
